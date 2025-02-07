@@ -101,3 +101,19 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+
+## Como executar projeto
+
+1. Clone o repositório:
+```sh
+git clone https://github.com/Angellica06/desafio-mario-kart.git
+```
+2. Navegue até o diretório do projeto:
+```sh
+cd nome-do-repositorio
+```
+3. Em seu terminal e na pasta do projeto:
+```sh
+node src/index.js
+```
